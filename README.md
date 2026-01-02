@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1_JSyfD4jyV20J6JSA15X83Z-sWQw1D_0/view?usp=drive_link" alt="Banner" />
+  <img src="HELLO WORLD.jpg" alt="Banner" />
 </p>
 
 <h1 align="center">😎 Hi, I'm Priyanshu Verma</h1>
