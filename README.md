@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">😎 Hi, I'm Priyanshu Verma</h1>
-<h3 align="center">Full Stack MERN Developer | B.Tech CSE</h3>
+<h3 align="center"> ( Developer / Programmer ) | B.Tech CSE</h3>
 
 <p align="center">
 📍 Kolkata, India <br>
