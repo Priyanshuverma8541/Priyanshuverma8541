@@ -1,16 +1,49 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" alt="Banner" />
+</p>
 
-<!--
-**Priyanshuverma8541/Priyanshuverma8541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">😎 Hi, I'm Priyanshu Verma</h1>
+<h3 align="center">Full Stack MERN Developer | B.Tech CSE</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+📍 Kolkata, India <br>
+🚀 Actively looking for Internship / Freelance Projects
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 About Me
+- 🎓 B.Tech Computer Science Engineering student  
+- 🧠 Trained in Full Stack Web Development (MERN)
+- 🛒 Built real-world E-commerce project (**Savitri Jewellers**)
+- 💬 Created WebSocket Chat Application
+- 🔍 Interested in Backend, APIs, Databases & Startups
+
+---
+
+## 🛠 Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, SQL  
+**Tools:** Git, GitHub, Postman, VS Code  
+
+---
+
+## 📌 Featured Projects
+🔹 **Savitri Jewellers – MERN E-commerce App**  
+🔹 **Air Quality Index Prediction (ML)**  
+🔹 **WebSocket Chat Application**  
+🔹 **Image Gallery & Portfolio Websites**
+
+👉 Check pinned repositories below 👇
+
+---
+
+## 📫 Contact Me
+📧 Email: priyanshuverma8541@gmail.com  
+💼 LinkedIn: linkedin.com/in/priyanshu-verma-4633b8254
+🌐 Portfolio: 
+
+---
+⭐ If you like my work, consider following!
+
