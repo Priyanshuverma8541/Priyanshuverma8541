@@ -14,7 +14,7 @@
 
 ## 💻 About Me
 - 🎓 B.Tech Computer Science Engineering student  
-- 🧠 Trained in Full Stack Web Development (MERN Stack)  
+- 🧠 Trained in Full Stack Web Development (MERN Stack) with exposure to Machine Learning concepts 
 - 🛒 Built real-world E-commerce application (**Savitri Jewellers**)  
 - 💬 Developed a real-time WebSocket Chat Application  
 - 🔍 Working across multiple tech stacks: Web, Backend, Databases & ML  
