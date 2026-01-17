@@ -7,7 +7,7 @@
 
 <p align="center">
 📍 Kolkata, India <br>
-🚀 Actively looking for Internship / Freelance Projects
+🚀 Actively looking for Freelance Projects
 </p>
 
 ---
