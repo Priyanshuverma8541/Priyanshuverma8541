@@ -8,7 +8,7 @@
 
 <p align="center">
 📍 Kolkata, India <br>
-🚀 Actively looking for Freelance Projects
+🚀 Open to Full-Time Opportunities • High-Impact Projects • Tech Collaborations
 </p>
 
 ---
